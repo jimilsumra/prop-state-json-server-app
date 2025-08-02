@@ -1,0 +1,30 @@
+{
+    "Products": [
+        {
+            "id": 1,
+            "name": "Apple Iphone 11",
+            "price": "$1700"
+        },
+        {
+            "id": 2,
+            "name": "Apple Iphone 12 Pro Max",
+            "price": "$1900"
+        },
+        {
+            "id": 3,
+            "name": "Samsung Galaxy s25 Pro Max",
+            "price": "$1500"
+        },
+        {
+            "id": 4,
+            "name": "Samsung Galaxy s25",
+            "price": "$1900"
+        },
+        {
+            "id": 5,
+            "name": "Apple Iphone 12 Pro Max",
+            "price": "$1900"
+        }
+
+    ]
+}
